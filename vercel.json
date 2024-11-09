@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://trashproject.site",
         "APP_KEY": "base64:BSlSnyZXaBDeeRFoNRLMezo1adD1L8+FPA+pe9RtKc0=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
